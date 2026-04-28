@@ -10,8 +10,8 @@
 
 | File | Description |
 |------|-------------|
-| `Task1_SaraGoodie_R_C844.docx` | **Task 1** – Network Mapping and Monitoring (Nmap + Wireshark lab) |
-| `Sara_Goodie_Task2C844.pdf` | **Task 2** – WLAN and Mobile Security Plan (Alliah scenario) |
+| `C844_Sara_Goodie_Task1` | **Task 1** – Network Mapping and Monitoring (Nmap + Wireshark lab) |
+| `C844_Sara_Goodie_Task2` | **Task 2** – WLAN and Mobile Security Plan (Alliah scenario) |
 
 ---
 
